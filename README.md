@@ -3,8 +3,8 @@
  <p align="center">
   <img src="https://raw.githubusercontent.com/Dhangofa/BatteryRemapper/refs/heads/main/fastlane/metadata/android/en-US/images/featureGraphic.png" alt="BatteryRemapper Banner"  width="700" max-width="100%"><br>
  </p>
- 
-[![GitHub Release](https://img.shields.io/github/v/release/Dhangofa/BatteryRemapper?label=GitHub%20Release&logo=github&color=blue)](https://github.com/Dhangofa/BatteryRemapper/releases/latest)
+
+[![GitHub Release](https://img.shields.io/github/v/release/Xposed-Modules-Repo/com.github.dhangofa.batteryremapper?label=GitHub%20Release&logo=github&color=blue)](https://github.com/Xposed-Modules-Repo/com.github.dhangofa.batteryremapper/releases/latest)
 [![LSPosed Repository](https://img.shields.io/badge/LSPosed%20Repo-Download-8A2BE2?logo=android&logoColor=white)](https://modules.lsposed.org/module/com.github.dhangofa.batteryremapper/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Android%2010%2B%20(API%2029%2B)-brightgreen.svg)](https://developer.android.com)
